@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/aptarmy/cjdropshipping-shopee-bridge#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": "^0.21.2",
     "crypto-js": "^4.0.0",
     "dotenv": "^8.2.0"
   },
